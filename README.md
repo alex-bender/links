@@ -239,3 +239,5 @@ Links to miscellaneous github projects
 * HelloZeroNet/ZeroNet
 * zsh-users/zsh-completions
 * jopohl/urh
+
+http://mfleck.cs.illinois.edu/building-blocks/index.html
